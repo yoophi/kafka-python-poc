@@ -1,0 +1,1 @@
+한 개의 message 를 가져오고 position 과 offset 을 확인
